@@ -1,6 +1,4 @@
-from typing import AsyncIterable
 from PIL import Image
-import glob
 import os
 from tqdm import tqdm
 import numpy as np
